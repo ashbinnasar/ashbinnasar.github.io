@@ -14,7 +14,7 @@ Skilled at web development;worked mainly as Mean Stack Developer;Good written an
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Css Frameworks (Bootstrap, Materialize)</li>
 	<li>Javascript (Design Patterns, Testes)</li>
 	<li>NodeJS</li>
 	<li>AngularJS - ReactJS</li>
