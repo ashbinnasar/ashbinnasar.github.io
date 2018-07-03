@@ -34,21 +34,21 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: https://www.instagram.com/ashbin.nasar/
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/ashbin-nasar
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/ashbinnasar
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: https://medium.com/@ashbinnasar_58191
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: ashbinnasardocs@gmail.com
