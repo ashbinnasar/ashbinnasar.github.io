@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>IT professional with 2.3 years of experience as software developer.
+<p>IT professional with 2+ years of experience as software developer.
 Skilled at web development;worked mainly as Mean Stack Developer;Good written and oral communication skills; capable of solving problem in the most efficient manner.</p>
 
 
