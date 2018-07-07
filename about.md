@@ -6,7 +6,7 @@ layout: page
 
 <p>Ashbin Nasar is an IT professional with 2+ years of experience as software developer.He currently works as a Senior Software Engineer at <a href="https://www.brillio.com/">Brillio Technologies</a>.</p>
 
-<p>He is skilled at web development and worked mainly as Mean Stack Developer.He has Good written and oral communication skills and he is capable of solving problem in the most efficient manner.</p>
+<p>He is skilled at web development and worked mainly as Mean Stack Developer.He has Good written and oral communication skills and he is capable of solving problems in the most efficient manner.</p>
 
 
 <h2>Skills</h2>
